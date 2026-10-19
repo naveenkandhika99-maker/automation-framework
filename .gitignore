@@ -1,0 +1,10 @@
+target/
+reports/
+newreport/
+screenshots/
+test-output/
+.settings/
+.classpath
+.project
+*.class
+src/test/resources/config.properties
